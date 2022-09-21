@@ -1,1 +1,1 @@
-Files realted to KNN algorithm 
+Files related to KNN algorithm 
